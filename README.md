@@ -1,7 +1,7 @@
-# charasort-bluearchive
-A web based character sorter for Blue Archive Based on [charasort](https://github.com/execfera/charasort) by execfera. This project is the continuation of its [own fork](https://github.com/YudhaDev/charasort-bluearchive) because the maintainer told me to do so.
+# charasort-atelier
+A web based character sorter for Ateleir Series Based on [charasort](https://github.com/execfera/charasort) by execfera. This project is the continuation of its [own fork](https://github.com/YudhaDev/charasort-bluearchive) because the maintainer told me to do so.
 
-https://ba-sort.netlify.app/
+https://harukanade123.github.io/charasort-atelier/
 
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
