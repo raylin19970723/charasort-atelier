@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
     name: "普尼太郎",
     img: "A10_Punitaro.jpeg",
     opts: {
-      series: [A10],
+      series: ["A10"],
       subchar: true
     }
   },
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
     name: "普尼二郎",
     img: "A10_Punijiro.jpeg",
     opts: {
-      series: [A10],
+      series: ["A10"],
       subchar: true
     }
   },
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
     name: "普尼三郎",
     img: "A10_Punisaburo.jpeg",
     opts: {
-      series: [A10],
+      series: ["A10"],
       subchar: true
     }
   },
